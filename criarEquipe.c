@@ -4,6 +4,8 @@
 #define TAM_NOME 50
 #define MAX_EQUIPES 100
 
+//funçao de criar equipes
+
 int equipe_existe(const char *nome_equipe, char equipes[][TAM_NOME], int total_equipes) {
     for (int i = 0; i < total_equipes; i++) {
         if (strcmp(nome_equipe, equipes[i]) == 0) {
