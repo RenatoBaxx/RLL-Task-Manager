@@ -10,11 +10,11 @@ Desenvolver um aplicativo de terminal para gerenciar equipes e suas tarefas, fac
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/renato/gerenciador-tarefas.git
-   cd gerenciador-tarefas
+   git clone [https://github.com/renato/gerenciador-tarefas.git](https://github.com/RenatoBaxx/RLL-Task-Manager.git)
+   cd RLL-Task-Manager
 
 2.Compile o codigo:
-gcc -o gerenciador gerenciador.c
+gcc -o main.c
 
 # Uso do Programa
 Gerenciar Equipes: adicionar, listar ou remover equipes.
