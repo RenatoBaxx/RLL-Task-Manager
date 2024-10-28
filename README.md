@@ -71,7 +71,7 @@ Como Executar o Projeto
 
 bash
 Copiar código
-git clone https://github.com/renato/rll-task-manager.git
+git clone [https://github.com/renato/rll-task-manager.git](https://github.com/RenatoBaxx/RLL-Task-Manager.git)
 cd gerenciador-tarefas
 # Compile o código:
 
