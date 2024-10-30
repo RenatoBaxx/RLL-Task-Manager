@@ -4,4 +4,9 @@
 
 void login();
 
+<<<<<<< HEAD
+=======
+void Register();
+
+>>>>>>> origin/register
 #endif

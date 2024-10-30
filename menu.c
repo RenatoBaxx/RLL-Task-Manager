@@ -32,6 +32,7 @@ void menu(int userID) {
                 break;
             case 4:
                 printf("Criando Equipe...\n");
+<<<<<<< HEAD
 
                 break;
             case 5:
@@ -41,6 +42,17 @@ void menu(int userID) {
             case 6:
                 printf("Exibindo Equipes...\n");
 
+=======
+                
+                break;
+            case 5:
+                printf("Editando Equipe...\n");
+                
+                break;
+            case 6:
+                printf("Exibindo Equipes...\n");
+                
+>>>>>>> origin/register
                 break;
             case 7:
                 printf("Saindo...\n");
@@ -80,7 +92,11 @@ int main(void) {
         return 0;
     }
 
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> origin/register
     if (userID != -1) {
         menu(userID);
     }
